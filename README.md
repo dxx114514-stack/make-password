@@ -17,7 +17,7 @@
 
 ### 使用
 
-双击运行编译后的可执行文件，按照提示输入密码的信息，输入完成后它会停止几秒(mcpp版本)然后退出。
+双击运行编译后的可执行文件（也可以在Releases下载），按照提示输入密码的信息，输入完成后它会停止几秒(mcpp版本)然后退出。
 
 mcpp版本需要如“编译”板块所示配置g++。
 
@@ -42,7 +42,7 @@ Input `g++ makepassword(zh-CN)(mcpp).cpp -o makepassword(zh-CN)(mcpp).exe -stati
 
 ### Use
 
-Double-click to run the compiled executable file, enter the password information as prompted, and it will stop for a few seconds (mcpp version) and then exit after completion.
+Double-click to run the compiled executable file(You can also download it in Releases), enter the password information as prompted, and it will stop for a few seconds (mcpp version) and then exit after completion.
 
 The mcpp version requires g++ configuration as shown in the "Compilation" section.
 
